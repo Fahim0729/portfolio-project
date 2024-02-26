@@ -29,7 +29,7 @@ select *
 from Employers
 --drop table if exists Employers
 
-     --i) ìselect count(*) from usersî, Write an optimized query against this-___________--------------________________------------_________________-----------
+     --i) ‚Äúselect count(*) from users‚Äù, Write an optimized query against this-___________--------------________________------------_________________-----------
 select count(*)
 from Users
 
